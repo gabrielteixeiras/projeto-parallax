@@ -34,7 +34,7 @@ section.normal {
 }
 
 section#normal-1 {
-    background-color: rgb(251, 252, 244);
+    background-color: #fbfcf4;
 
     font-family: var(--fonte1);
     text-align: center;
